@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bshiva2004/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/bshiva2004/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
